@@ -1,5 +1,5 @@
 ## Usage
-Create .env file using the one I sent over the email. Included env file in gitignore for security practice.
+Created .env file using the one I sent over the email. Included env file in gitignore for security practice.
 
 ### Install dependencies
 # Backend deps
